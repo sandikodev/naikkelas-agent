@@ -1,0 +1,3 @@
+[submodule "koneksi-digital"]
+	path = koneksi-digital
+	url = git@github.com:sandikodev/koneksi-digital.git
